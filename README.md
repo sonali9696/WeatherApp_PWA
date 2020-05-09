@@ -14,6 +14,12 @@ techniques. Your app will:
   to notify the user it's installable.
 
 
+## To run
+* Install node.js
+* Open node js command prompt and run "npm install"
+* Run "node server.js"
+* Browse http://localhost:8000/ on your web browser
+
 ## What you'll learn
 
 * How to create and add a web app manifest
