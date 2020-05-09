@@ -3,6 +3,8 @@
 These are the resource files needed for the
 [Your First Progressive Web App][codelab] codelab.
 
+**Note: Dark sky API is not allowing registrations anymore so this app does not show real data**
+
 In this codelab, you'll  build a weather web app using Progressive Web App
 techniques. Your app will:
 
